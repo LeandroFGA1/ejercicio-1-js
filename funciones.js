@@ -1,4 +1,4 @@
-///1- Crear una función que reciba un número por parámetro e indique en consola si el número es par o impar.
+///1- Crear una función que reciba un número por parámetro e indique en consola si el número es par o impar. hola
 function esParOImpar (num){
     if (num % 2 ===0){
         console.log("es par");
